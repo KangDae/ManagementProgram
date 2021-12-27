@@ -11,7 +11,7 @@ public class SaramMain {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("===========»ç¶÷ Á¤º¸ °ü¸® ÇÁ·Î±×·¥============");
+		System.out.println("==========ì‚¬ëžŒ ì •ë³´ ê´€ë¦¬ í”„ë¡œê·¸ëž¨=============");
        rc.samramController.action();
 		
 	}
